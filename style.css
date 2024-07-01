@@ -1,0 +1,19 @@
+.align-center{
+    text-align: center;
+}
+hr{
+    border: 3px solid black;
+    width: 70%;
+    
+}
+#head-one{
+    border: 1px solid black;
+}
+  *{
+    margin: 0%;
+  }
+  .color-red{
+    color: red;
+  }
+    
+    
